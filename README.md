@@ -57,7 +57,6 @@ Enter `q` to quit the program.
 TensorFlow warnings during startup are expected and do not affect functionality.
 
 ## Author
-Rahat Kabir,
 Hastin Ghasadiya
 
 
